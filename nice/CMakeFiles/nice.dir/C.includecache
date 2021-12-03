@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/nice/nice.c
+apue.h
+/home/lilong/shell/nice/apue.h
+errno.h
+-
+sys/time.h
+-
+sys/syslimits.h
+-
+limits.h
+-
+sys/param.h
+-
+

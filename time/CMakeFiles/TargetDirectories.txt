@@ -1,0 +1,3 @@
+/home/lilong/shell/time/CMakeFiles/edit_cache.dir
+/home/lilong/shell/time/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/time/CMakeFiles/time.dir

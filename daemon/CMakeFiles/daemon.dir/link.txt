@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/daemon.dir/daemon.o  -o daemon -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 

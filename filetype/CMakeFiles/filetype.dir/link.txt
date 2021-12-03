@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/filetype.dir/filetype.o  -o filetype -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 

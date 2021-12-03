@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/daemon/daemon.c
+apue.h
+/home/lilong/shell/daemon/apue.h
+syslog.h
+-
+fcntl.h
+-
+sys/resource.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/shell.dir/shell.o  -o shell -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 

@@ -1,0 +1,3 @@
+/home/lilong/shell/nice/CMakeFiles/edit_cache.dir
+/home/lilong/shell/nice/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/nice/CMakeFiles/nice.dir

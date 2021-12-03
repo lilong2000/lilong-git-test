@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/bianliang.dir/bianliang.o  -o bianliang -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 
