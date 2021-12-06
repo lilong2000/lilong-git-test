@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/getpwnam.dir/getpwnam.o  -o getpwnam -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 

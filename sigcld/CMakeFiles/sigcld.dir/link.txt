@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/sigcld.dir/sigcld.o  -o sigcld -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 
