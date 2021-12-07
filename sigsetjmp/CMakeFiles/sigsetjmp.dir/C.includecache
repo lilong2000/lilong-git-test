@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/sigsetjmp/sigsetjmp.c
+apue.h
+/home/lilong/shell/newrepo/sigsetjmp/apue.h
+setjmp.h
+-
+time.h
+-
+

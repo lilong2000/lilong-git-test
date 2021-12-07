@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/ed.dir/ed.o  -o ed -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 
