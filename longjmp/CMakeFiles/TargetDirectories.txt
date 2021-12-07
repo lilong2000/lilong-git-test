@@ -1,0 +1,3 @@
+/home/lilong/shell/newrepo/longjmp/CMakeFiles/edit_cache.dir
+/home/lilong/shell/newrepo/longjmp/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/newrepo/longjmp/CMakeFiles/longjmp.dir

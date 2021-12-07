@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/longjmp/longjmp.c
+apue.h
+/home/lilong/shell/newrepo/longjmp/apue.h
+setjmp.h
+-
+
