@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/control.dir/control.o  -o control -rdynamic -Wl,-Bstatic -lapue -Wl,-Bdynamic 
