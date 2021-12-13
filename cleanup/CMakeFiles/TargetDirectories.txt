@@ -1,0 +1,3 @@
+/home/lilong/shell/newrepo/cleanup/CMakeFiles/edit_cache.dir
+/home/lilong/shell/newrepo/cleanup/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/newrepo/cleanup/CMakeFiles/cleanup.dir
