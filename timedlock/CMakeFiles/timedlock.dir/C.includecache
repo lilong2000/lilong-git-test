@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/timedlock/timedlock.c
+apue.h
+/home/lilong/shell/newrepo/timedlock/apue.h
+pthread.h
+-
+

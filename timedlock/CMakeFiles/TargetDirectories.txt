@@ -1,0 +1,3 @@
+/home/lilong/shell/newrepo/timedlock/CMakeFiles/edit_cache.dir
+/home/lilong/shell/newrepo/timedlock/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/newrepo/timedlock/CMakeFiles/timedlock.dir

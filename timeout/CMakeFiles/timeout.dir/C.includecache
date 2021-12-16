@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/timeout/timeout.c
+apue.h
+/home/lilong/shell/newrepo/timeout/apue.h
+pthread.h
+-
+time.h
+-
+sys/time.h
+-
+

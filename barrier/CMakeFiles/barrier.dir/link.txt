@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/barrier.dir/barrier.c.o  -o barrier -Wl,-Bstatic -lapue -lbsd -Wl,-Bdynamic -lpthread 

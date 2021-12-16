@@ -9,3 +9,4 @@ v1.6 add alarm longjmp sigalrm sigpending
 v1.7 update yunsuan.sh add catch critical ed sigsetjmp sync
 v1.8 add control exitcode pexit sleep tid
 v1.9 add cleanup
+v2.0 add timedlock barrier timeout

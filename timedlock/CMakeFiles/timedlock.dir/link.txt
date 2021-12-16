@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/timedlock.dir/timedlock.c.o  -o timedlock -Wl,-Bstatic -lapue -Wl,-Bdynamic -lpthread 
