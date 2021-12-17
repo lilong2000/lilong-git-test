@@ -10,3 +10,4 @@ v1.7 update yunsuan.sh add catch critical ed sigsetjmp sync
 v1.8 add control exitcode pexit sleep tid
 v1.9 add cleanup
 v2.0 add timedlock barrier timeout
+v2.1 add mask atfork pipe page popen

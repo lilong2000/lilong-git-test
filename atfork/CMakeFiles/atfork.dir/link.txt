@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/atfork.dir/atfork.c.o  -o atfork -Wl,-Bstatic -lapue -Wl,-Bdynamic -lpthread 

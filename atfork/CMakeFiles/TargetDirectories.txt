@@ -1,0 +1,3 @@
+/home/lilong/shell/newrepo/atfork/CMakeFiles/edit_cache.dir
+/home/lilong/shell/newrepo/atfork/CMakeFiles/rebuild_cache.dir
+/home/lilong/shell/newrepo/atfork/CMakeFiles/atfork.dir

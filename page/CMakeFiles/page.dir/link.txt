@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/page.dir/page.c.o  -o page -Wl,-Bstatic -lapue -Wl,-Bdynamic 

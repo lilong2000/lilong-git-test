@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/mask.dir/mask.c.o  -o mask -Wl,-Bstatic -lapue -Wl,-Bdynamic -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/popen.dir/popen.c.o  -o popen -Wl,-Bstatic -lapue -Wl,-Bdynamic 
