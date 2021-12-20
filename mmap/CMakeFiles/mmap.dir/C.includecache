@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/mmap/mmap.c
+apue.h
+/home/lilong/shell/newrepo/mmap/apue.h
+fcntl.h
+-
+sys/mman.h
+-
+

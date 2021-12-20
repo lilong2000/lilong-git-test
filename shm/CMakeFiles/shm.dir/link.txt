@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/shm.dir/shm.c.o  -o shm -Wl,-Bstatic -lapue -Wl,-Bdynamic 
