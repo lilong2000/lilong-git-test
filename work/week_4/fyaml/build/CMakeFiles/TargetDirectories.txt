@@ -1,0 +1,3 @@
+/home/lilong/work/week_4/fyaml/build/CMakeFiles/rebuild_cache.dir
+/home/lilong/work/week_4/fyaml/build/CMakeFiles/edit_cache.dir
+/home/lilong/work/week_4/fyaml/build/CMakeFiles/fyaml.dir

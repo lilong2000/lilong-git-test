@@ -1,0 +1,6 @@
+project(examples)
+add_subdirectory(list)
+add_subdirectory(queue)
+add_subdirectory(stack)
+add_subdirectory(algo)
+add_subdirectory(recursion)

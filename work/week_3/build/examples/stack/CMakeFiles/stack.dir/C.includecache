@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/stack/stack.h
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+
+/home/lilong/work/week_3/examples/stack/stack.c
+stdio.h
+-
+stack.h
+/home/lilong/work/week_3/examples/stack/stack.h
+

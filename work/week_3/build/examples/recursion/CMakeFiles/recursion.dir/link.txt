@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/recursion.dir/recursion.c.o  -o recursion 

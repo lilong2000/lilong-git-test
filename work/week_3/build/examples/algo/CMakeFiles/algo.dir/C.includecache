@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/algo/algo.h
+stdio.h
+-
+
+/home/lilong/work/week_3/examples/algo/algo.c
+stdio.h
+-
+algo.h
+/home/lilong/work/week_3/examples/algo/algo.h
+

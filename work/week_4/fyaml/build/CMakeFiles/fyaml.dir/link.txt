@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/fyaml.dir/fyaml.c.o  -o fyaml -Wl,-Bstatic -lfyaml -Wl,-Bdynamic 

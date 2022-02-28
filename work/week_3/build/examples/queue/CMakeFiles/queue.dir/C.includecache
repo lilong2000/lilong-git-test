@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/queue/queue.h
+stdio.h
+-
+stdlib.h
+-
+malloc.h
+-
+
+/home/lilong/work/week_3/examples/queue/queue.c
+queue.h
+/home/lilong/work/week_3/examples/queue/queue.h
+stdio.h
+-
+

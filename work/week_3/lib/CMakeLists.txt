@@ -1,0 +1,5 @@
+project(lib)
+add_subdirectory(list)
+add_subdirectory(queue)
+add_subdirectory(stack)
+add_subdirectory(algo)

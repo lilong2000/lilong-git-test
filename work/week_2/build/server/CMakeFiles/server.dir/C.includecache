@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/work/week_2/server/server.c
+sys/msg.h
+-
+sys/types.h
+-
+sys/ipc.h
+-
+stdio.h
+-
+sys/errno.h
+-
+string.h
+-
+
