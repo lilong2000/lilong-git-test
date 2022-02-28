@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/getaddrinfo.dir/getaddrinfo.c.o  -o getaddrinfo -Wl,-Bstatic -lapue -Wl,-Bdynamic 

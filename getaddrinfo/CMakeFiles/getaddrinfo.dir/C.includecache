@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lilong/shell/newrepo/getaddrinfo/getaddrinfo.c
+apue.h
+/home/lilong/shell/newrepo/getaddrinfo/apue.h
+netinet/in.h
+-
+netdb.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+netinet.h
+-
+

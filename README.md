@@ -12,3 +12,5 @@ v1.9 add cleanup
 v2.0 add timedlock barrier timeout
 v2.1 add mask atfork pipe page popen
 v2.2 add shm mmap
+v2.3 add getaddrinfo
+v2.4 The last update add feed
